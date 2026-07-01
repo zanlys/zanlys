@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Nama Kamu] 👋</h1>
+<h1 align="center">Hi there, I'm zanlys</h1>
 <h3 align="center">Full Stack Developer | Membangun produk dari database sampai UI</h3>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About me
 
-- 🔭 Saat ini sedang membangun **[welusion studio]**
+- 🔭 Saat ini sedang membangun **welusion studio**
 
 ---
 
