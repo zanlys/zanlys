@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm [Nama Kamu] 👋</h1>
+<h3 align="center">Full Stack Developer | Membangun produk dari database sampai UI</h3>
 
-<!--
-**zanlys/zanlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;JavaScript+%2F+TypeScript+Enthusiast;Suka+Ngoprek+API+dan+Database;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://username.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Tentang Saya
+
+- 🔭 Saat ini sedang mengerjakan **[nama proyek kamu]**
+- 🌱 Sedang belajar **Next.js, Docker, dan System Design**
+- 💬 Tanya saya soal **React, Node.js, atau arsitektur backend**
+- 📫 Cara menghubungi saya: **email@example.com**
+- ⚡ Fun fact: **[isi fakta unik tentang kamu]**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,laravel,php" />
+</p>
+
+**Database & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,githubactions,linux" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,aws" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Proyek Unggulan
+
+<p align="center">
+  <a href="https://github.com/username/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/username/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO2&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+</p>
+
+<p align="center"><i>⭐️ Jangan lupa mampir dan kasih star kalau suka proyek saya!</i></p>
