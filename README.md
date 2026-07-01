@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm zanlys</h1>
-<h3 align="center">Full Stack Developer | Membangun produk dari database sampai UI</h3>
+<h3 align="center">FnB Developer | Build from ui to database</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=460&lines=Full+Stack+Developer;JavaScript+%2F+TypeScript+Enthusiast;Suka+Ngoprek+API+dan+Database;Always+Learning+New+Things" alt="Typing SVG" />
