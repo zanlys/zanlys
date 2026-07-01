@@ -11,13 +11,13 @@
 
 ---
 
-### 👨‍💻 About me
+###  About me
 
-- 🔭 currently developing **welusion studio**
+-  currently developing **welusion studio**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Frontend**
 
@@ -45,16 +45,15 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://vercel.app" />
+  <img height="165" src="https://activity-graph.herokuapp.com/graph?username=zanlys&theme=react-dark&hide_border=true&area=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanlys&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://herokuapp.com" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zanlys&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zanlys&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
