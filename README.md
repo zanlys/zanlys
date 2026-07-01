@@ -16,11 +16,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 🔭 Saat ini sedang mengerjakan **[nama proyek kamu]**
-- 🌱 Sedang belajar **Next.js, Docker, dan System Design**
-- 💬 Tanya saya soal **React, Node.js, atau arsitektur backend**
-- 📫 Cara menghubungi saya: **email@example.com**
-- ⚡ Fun fact: **[isi fakta unik tentang kamu]**
+- 🔭 Saat ini sedang membangun **[welusion studio]**
 
 ---
 
@@ -35,19 +31,19 @@
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,laravel,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 **Database & DevOps**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github" />
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,aws" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel" />
 </p>
 
 ---
@@ -55,7 +51,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zanlys&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -68,10 +64,10 @@
 ### 🚀 Proyek Unggulan
 
 <p align="center">
-  <a href="https://github.com/username/repo1">
+  <a href="https://github.com/zanlys/repo1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO1&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/username/repo2">
+  <a href="https://github.com/zanlys/repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
