@@ -60,7 +60,7 @@
 
 ### 🚀 Proyek Unggulan
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/zanlys/repo1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zanlys&repo=REPO1&theme=tokyonight&hide_border=true" />
   </a>
@@ -71,6 +71,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-</p>
