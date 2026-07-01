@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zanlys&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://activity-graph.herokuapp.com/graph?username=zanlys&theme=react-dark&hide_border=true&area=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
