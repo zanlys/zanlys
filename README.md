@@ -60,7 +60,8 @@
 
 ### 🚀 Proyek Unggulan
 
-<!--<p align="center">
+<!--
+<p align="center">
   <a href="https://github.com/zanlys/repo1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zanlys&repo=REPO1&theme=tokyonight&hide_border=true" />
   </a>
@@ -68,6 +69,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zanlys&repo=REPO2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
----
-
+-->
